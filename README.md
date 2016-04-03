@@ -1,1 +1,1 @@
-# private repo https://github.com/FollowClosely/f.git
+# public repo https://github.com/FollowClosely/followClosely.git
